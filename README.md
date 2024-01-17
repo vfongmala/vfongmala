@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Vichita Fongmala from Bangkok, Thailand
-- 👀 I’m interested in ... Mobile application development especially on andr
+- 👋 Hi, I’m Vichita (Ploy) Fongmala
+- 🌏 I'm currently based in Sydney, AU
+- 👀 I’m interested in ... Mobile application development especially on Android
 - 🌱 I’m currently learning ... iOS development and cross platform mobile development
 - 📫 How to reach me ... https://www.linkedin.com/in/vfongmala/
 
